@@ -2,5 +2,6 @@ if game.PlaceId == 6284583030 then
     wait(5)
     print('Joined Pet Simulator X, Loaded')
     else
+    wait(5)
         warn('This isnt a supported game!')
 end
