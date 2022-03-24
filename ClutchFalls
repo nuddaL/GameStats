@@ -1,6 +1,0 @@
-if game.PlaceId == 7504424538 then
-    print('Joined Clutch Falls, game loaded.')
-    else
-        wait(5)
-        warn('Joined unsupported game, please join one of the supported game to continue')
-end
