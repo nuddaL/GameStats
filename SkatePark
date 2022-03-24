@@ -2,5 +2,6 @@ if game.PlaceId == 4850718823 then
     wait(5)
     print('Joined Skate Park, loaded!')
 else
+    wait(5)
     warn('This isnt a supported game!, Join a supported game to continue!')
 end
