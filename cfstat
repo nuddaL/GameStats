@@ -1,5 +1,0 @@
-if game.PlaceId == 7504424538 then
-    print('Game ID - 7504424538')
-    print('Created on 9/18/2021')
-    print('Developed by daimonds007 and Armandaswer')
-end
