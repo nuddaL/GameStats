@@ -1,0 +1,6 @@
+if game.PlaceId == 654732683 then
+    print('Joined Build A Boat For Treasure, loaded!')
+    else
+        wait(5)
+        warn('This isnt a supported game!, Join a supported game to continue!')
+end
