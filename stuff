@@ -1,0 +1,23 @@
+if game.PlaceId == 7504424538 then
+    print('Game ID - 7504424538')
+    print('Created on 9/18/2021')
+    print('Developed by daimonds007 and Armandaswer')
+end
+
+if game.PlaceId == 6284583030 then
+    print('Game ID - 6284583030')
+    print('Created on 1/22/2021')
+    print('Developed by Preston/Biggames')
+end
+
+if game.PlaceId == 654732683 then
+    print('Game ID - 654732683')
+    print('Created on 2/11/2017')
+    print('Created by Panwellz')
+end
+
+if game.PlaceId == 537413528 then
+    print('Game ID - 537413528')
+    print('Created on 11/2/2016')
+    print('Created by ChillThrill709')
+end
